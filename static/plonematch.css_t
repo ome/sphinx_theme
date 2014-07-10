@@ -129,8 +129,8 @@ div.sphinxsidebarwrapper {
 body {
     margin: 0;
     padding: 0;
-	font-size: medium;
-	border-style: none;
+    font-size: medium;
+    border-style: none;
 }
 
 #portal-top {
@@ -144,12 +144,12 @@ body {
 }
 
 div.document {
-	font-size: 14px;
+    font-size: 14px;
     line-height 150%;
 }
 
 div.related {
-	font-size: 14px;
+    font-size: 14px;
     overflow: auto;
 }
 
@@ -167,7 +167,7 @@ div.related {
     padding-right: 2em;
     text-transform: none;
     line-height: 1.6em;
-	text-align: left;
+    text-align: left;
 }
 #portal-breadcrumbs a {
     text-decoration: none;
@@ -177,7 +177,7 @@ div.related {
 }
 
 #portal-header {
-	text-align: left;
+    text-align: left;
 }
 
 pre {
@@ -199,7 +199,7 @@ table.sortable thead {
 @media print{
 
 #portal-top {
-	display:none;
+    display:none;
 }
 
 }
