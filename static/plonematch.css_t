@@ -5,6 +5,7 @@ div.sphinxsidebar {
 }
 div.bodywrapper {
     margin: 0 0 0 240px;
+    overflow: auto;
 }
 div.sphinxsidebarwrapper {
     padding: 10px 0px 0px 10px;
@@ -149,6 +150,7 @@ div.document {
 
 div.related {
 	font-size: 14px;
+    overflow: auto;
 }
 
 #portal-top a {
