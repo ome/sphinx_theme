@@ -12,11 +12,11 @@ div.sphinxsidebarwrapper {
 }
 
 div.admonition, div.warning {
-    display: inline-block;
+    display: block;
 }
 
 div.highlight-python {
-    display: inline-block;
+    display: block;
 }
 
 @media screen {
