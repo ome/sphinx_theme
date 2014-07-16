@@ -193,6 +193,10 @@ a.internal > em {
     font-style: normal;
 }
 
+tt.descname {
+    font-size: 1em;
+}
+
 /* Options for sortable tables */
 table.sortable thead {
 }
