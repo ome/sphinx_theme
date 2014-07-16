@@ -15,6 +15,10 @@ div.admonition, div.warning {
     display: inline-block;
 }
 
+div.highlight-python {
+    display: inline-block;
+}
+
 @media screen {
 /* The global section tabs. */
 #portal-globalnav {
