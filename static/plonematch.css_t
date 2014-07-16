@@ -17,6 +17,7 @@ div.admonition, div.warning {
 
 div.highlight-python {
     display: block;
+    overflow: auto;
 }
 
 @media screen {
