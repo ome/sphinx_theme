@@ -17,6 +17,9 @@ div.admonition, div.warning {
 
 div.highlight-python {
     display: block;
+}
+
+div.topic, div.highlight-python {
     overflow: auto;
 }
 
