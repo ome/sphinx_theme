@@ -11,15 +11,11 @@ div.sphinxsidebarwrapper {
     padding: 10px 0px 0px 10px;
 }
 
-div.admonition, div.warning {
-    display: block;
-}
-
+div.topic,
+div.admonition,
+div.warning,
 div.highlight-python {
     display: block;
-}
-
-div.topic, div.highlight-python {
     overflow: auto;
 }
 
