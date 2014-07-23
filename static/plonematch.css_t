@@ -11,11 +11,8 @@ div.sphinxsidebarwrapper {
     padding: 10px 0px 0px 10px;
 }
 
-div.topic,
-div.admonition,
-div.warning,
-div.highlight-python {
-    display: block;
+/* Fix for narrow browser windows */
+div.related, div.body > div {
     overflow: auto;
 }
 
