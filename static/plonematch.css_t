@@ -16,6 +16,11 @@ div.related, div.body > div {
     overflow: auto;
 }
 
+/* Fix for negative table margin */
+table.docutils {
+    margin: 0em;
+}
+
 @media screen {
 /* The global section tabs. */
 #portal-globalnav {
