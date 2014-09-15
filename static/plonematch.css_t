@@ -3,7 +3,7 @@
 div.sphinxsidebar {
     float: left;
     width: 250px;
-    padding-top: 2px;
+    padding-top: 4px;
 }
 div.bodywrapper {
     margin: 0 0 0 240px;
