@@ -2,13 +2,21 @@
 
 div.sphinxsidebar {
     float: left;
+    width: 250px;
+    padding-top: 4px;
 }
 div.bodywrapper {
     margin: 0 0 0 240px;
 }
 
 div.sphinxsidebarwrapper {
-    padding: 10px 0px 0px 10px;
+    padding: 0px 0px 0px 10px;
+}
+
+div.sphinxsidebarwrapper ul > li > a {
+    word-wrap: break-word;
+    font-size: 14px;
+    padding-right: 10px;
 }
 
 /* Fix for narrow browser windows */
